@@ -1,3 +1,13 @@
+# Welcome to ElenaTobi Platform
+
+My name is Elena Sánchez, and I am working on philosophy and world structure.
+
+- 👋 Hello, I am @elenatobi
+- 👀 I am interested in philosophy, world map, world structure, and more.
+- 🌱 I am currently learning big data (data warehouse) and data lakes for a philosophical world structure.
+- 💞️ I am looking to collaborate in the data warehouse.
+- 📫 How to contact me: @elenatobi
+
 # Bienvenidos a ElenaTobi plataforma
 
 Mi nombre es Elena Sánchez y estoy trabajando en filosofía y estructura mundial.
